@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+chromadb
+sentence-transformers
+transformers
+torch
+pypdf
+pymupdf
+python-dotenv
+pytesseract
+pillow
